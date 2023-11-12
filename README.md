@@ -18,7 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xf4rry&" alt="xf4rry" /></p>
 
-<div itemscope="" itemtype="http://schema.org/Person" class="fiverr-seller-widget" style="display: inline-block;">[
+<div itemscope="" itemtype="http://schema.org/Person" class="fiverr-seller-widget" style="display: inline-block;">
 
 <div id="fiverr-widget-seller-data" style="display: none;">
 
@@ -32,4 +32,4 @@
 
 </div>
 
-](https://www.fiverr.com/x_farry)</div>
+(https://www.fiverr.com/x_farry)</div>
