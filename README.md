@@ -18,3 +18,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xf4rry&" alt="xf4rry" /></p>
 
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/x_farry rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-9790b218-aa0a-4276-b895-67b330f47c43' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >x_farry</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>👋 Ciao! I'm Christian, an Italian high school student with a passion for all things ICT. If you're in need of programming tips and help or creative graphic design, you've come to the right place.
+Proficient in C#, Kotlin, and Flowgorithm programming, I also have a creative side and love designing graphics. Whether you need code for your project or eye-catching graphics for your business, I'm here to help. Let's collaborate and bring your ideas to life! :D
+</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-9790b218-aa0a-4276-b895-67b330f47c43' src='https://widgets.fiverr.com/api/v1/seller/x_farry?widget_id=9790b218-aa0a-4276-b895-67b330f47c43' data-config='{"category_name":"\n                                    Graphics \u0026 Design\n\n                            "}' async='true' defer='true'></script>
