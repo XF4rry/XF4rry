@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **folishmercenary46@gmail.com**
+- 📫 How to reach me **christian.pastori.stud@ispascalcomandini.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
